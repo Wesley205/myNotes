@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # nova
 
 A new Flutter project.
@@ -15,7 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+this is part of the changes
 # myNotes
 Notes is a secure, intuitive, and note-taking app that offers real-time sync, offline access, organized categories, and a rich text editor, ensuring you can efficiently capture and manage your notes anywhere, anytime.
->>>>>>> 111eb5ea1e6852844e80b9d879b67b18beed2fe4
+ 111eb5ea1e6852844e80b9d879b67b18beed2fe4
