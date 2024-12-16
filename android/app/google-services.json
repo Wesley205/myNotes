@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656416143237",
+    "project_id": "nova-app-wesley",
+    "storage_bucket": "nova-app-wesley.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656416143237:android:10de08321043176694b6ec",
+        "android_client_info": {
+          "package_name": "com.wesley.nova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVWAIhi66hCzpRUX61hJp_5vNeDULOis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
