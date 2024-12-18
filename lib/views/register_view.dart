@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:nova/constants/routes1.dart';
 import 'package:nova/services/auth/auth_exceptions.dart';
 import 'package:nova/services/auth/auth_service.dart';
-import 'package:nova/utilies/show_error_dialog.dart';
+import 'package:nova/utilies/dialogs/error_dialog.dart';
+
 
 class RegisterView extends StatefulWidget {
   const RegisterView({super.key});
